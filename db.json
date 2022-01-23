@@ -18,5 +18,14 @@
             "name": "typicode"
             
         }
+    ],
+    "registros": [
+        {
+            "id": 1,
+                "nombre": "aura",
+                "apellido": "martinez",
+                "correo": "aurachico122@gmail.com"
+        }
     ]
+    
 }
